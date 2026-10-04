@@ -258,4 +258,23 @@ gap:3rem;
 }
 
 
+.card-section2{
+position: relative;
+display: flex;
+justify-content:center;
+gap: 3rem;
+
+}
+
+.card-wrapper{
+width:15%;
+
+
+}
+.img-container >img{
+border-radius: 10px 10px 0px 0px;
+
+}
+
+
 
