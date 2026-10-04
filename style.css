@@ -8,7 +8,6 @@
     }
 
     nav {
-
         color: white;
       display: flex;
       justify-content:center;
@@ -100,26 +99,34 @@ justify-content:center;
 align-items: center;
 text-align: center;
 gap: 40rem;
+ margin-top: 9rem;
 
     }
 .name{
 
 display: flex;
 gap: 5rem;
+align-items: center;
+text-align: center;
 
 }
 .name input{
-width:20vw;
+width:30vw;
 text-align: center;
 border:1px solid #282828;
 background-color: #F9FAFB;
+height:4vh;
 }
 .input i{
 position: absolute;
 left:46%;
-top:6px;
+top:9.4rem;
 }
+.icon{
+gap: 2rem;
+display: flex;
 
+}
 
 
 
