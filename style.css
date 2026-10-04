@@ -86,7 +86,7 @@
       .dropdown {
         position: static;
         box-shadow: none;
-        background-color: darkslateblue;
+        
       }
 
       .dropdown a {
@@ -291,6 +291,9 @@ justify-content: center;
 text-align: center;
 align-items: center;
 gap:6rem;
+background-color:#000000; ;
+width:100%;
+color: white;
 
 }
 .footer-icons{
@@ -299,8 +302,4 @@ gap: 2rem;
 
 
 }
-.footer-icons >i{
 
-
-
-}
