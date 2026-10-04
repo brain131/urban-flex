@@ -302,4 +302,54 @@ gap: 2rem;
 
 
 }
+.about-us{
+background-image: url(man1.jpg);
+background-repeat: no-repeat;
+height: 60vh;
+background-position: center;
+background-size: cover;
+display: flex;
+justify-content: center;
+align-items: center;
+color: #F9FAFB;
+}
+
+.form-section{
+display: flex;
+gap :4em;
+align-content: center;
+text-align: center;
+justify-content: center;
+
+background-repeat: no-repeat;
+background-size: cover;
+margin-top: 30px;
+
+}
+.form-div{
+ 
+padding:50px;
+border-radius: 20px;
+}
+form >div{
+margin-bottom: 40px;
+
+
+}
+form input{
+border:1px solid black;
+padding: 15px;
+width: 30vw;
+
+}
+.sub-btn input{
+width:20vw;
+
+
+}
+#subject{
+width:30vw;
+height:8vh;
+text-align: center;
+}
 
