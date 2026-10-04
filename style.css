@@ -114,3 +114,12 @@ text-align: center;
 border:1px solid #282828;
 background-color: #F9FAFB;
 }
+.input i{
+position: absolute;
+left:46%;
+top:6px;
+}
+
+
+
+
