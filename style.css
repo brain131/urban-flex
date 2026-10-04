@@ -285,5 +285,22 @@ height:50vh;
 
 
 }
+footer{
+display: flex;
+justify-content: center;
+text-align: center;
+align-items: center;
+gap:6rem;
+
+}
+.footer-icons{
+display: flex;
+gap: 2rem;
 
 
+}
+.footer-icons >i{
+
+
+
+}
