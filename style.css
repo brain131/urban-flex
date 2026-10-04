@@ -263,18 +263,27 @@ position: relative;
 display: flex;
 justify-content:center;
 gap: 3rem;
+text-align: center;
+flex-wrap:wrap;
+
 
 }
 
 .card-wrapper{
 width:15%;
+height: 60vh;
+background-color: #ffffff;
 
 
 }
 .img-container >img{
 border-radius: 10px 10px 0px 0px;
+height: 100%;
+}
+.img-container{
+height:50vh;
+
 
 }
-
 
 
