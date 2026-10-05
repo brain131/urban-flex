@@ -271,7 +271,7 @@ flex-wrap:wrap;
 }
 
 .card-wrapper{
-width:15%;
+width:250px;
 height: 60vh;
 background-color: #ffffff;
 
@@ -287,6 +287,8 @@ height:50vh;
 
 }
 footer{
+position: absolute;
+bottom:0;
 display: flex;
 justify-content: center;
 text-align: center;
@@ -303,4 +305,34 @@ gap: 2rem;
 
 
 }
+ @media (max-width: 768px){
+.card-section2{
+display: grid;
+grid-template-columns: 1fr;
+align-items: center;
+gap: 4rem;
+justify-content: center;
+place-items:center;
+}
 
+
+
+
+
+ }
+
+ @media (min-width: 1000px){
+.card-section2{
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+align-items: center;
+gap: 4rem;
+justify-content: center;
+place-items:center;
+}
+
+
+
+
+
+ }
