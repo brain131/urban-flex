@@ -470,6 +470,10 @@ margin-bottom: 40px;
 
 
 }
+.form-div h2{
+font-size: 2rem;
+
+}
 form input{
 border:1px solid black;
 padding: 15px;
