@@ -169,7 +169,7 @@ object-fit: fill;
 .hero-content{
 position:absolute;
 top: 70%;
-
+left:7vw;
 }
 @keyframes heroSlider {
 0%, 25%{
