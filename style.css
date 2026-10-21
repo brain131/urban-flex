@@ -291,7 +291,10 @@ background-image:url(cloth6.jpg);
 }
 }
 
+.star{
+color: gold;
 
+}
 .card-content >h3{
 
 font-family:serif;
@@ -300,6 +303,7 @@ text-transform: capitalize;
 font-size:1.3rem;
 
 }
+
 .card-section{
 display: flex;
 position: relative;
