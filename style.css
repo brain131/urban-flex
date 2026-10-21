@@ -214,7 +214,7 @@ display: flex;
 position: relative;
 align-items: center;
 justify-content: center;
-gap:3rem;
+gap:4rem;
 
 }
 .card {
@@ -337,7 +337,7 @@ gap:6rem;
 background-color:#000000; ;
 width:100%;
 color: white;
-
+margin-top: 70px;
 }
 .footer-icons{
 display: flex;
