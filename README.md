@@ -1,4 +1,4 @@
-# URBAN TONE
+# URBAN FLEX
 
 Welcome to the repository for **URBAN TONE**, a modern, responsive e-commerce storefront built entirely from scratch using **HTML5** and **CSS3**. This project features a clean look, fluid layouts, and a curated product catalog designed for the modern fashion-forward individual.
 
