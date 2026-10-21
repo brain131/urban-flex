@@ -97,7 +97,7 @@ display:none;
 justify-content:center;
 align-items: center;
 text-align: center;
-gap: 40rem;
+gap: ;
  margin-top: 9rem;
 flex-direction: column;
     }
@@ -219,7 +219,7 @@ display: flex;
 justify-content:center;
 align-items: center;
 text-align: center;
-gap: 40rem;
+gap: 2rem;
  margin-top: 9rem;
 
     }
