@@ -93,7 +93,7 @@
         padding-left: 2rem;
       }
        .top-bar{
-display:flex;
+display:none;
 justify-content:center;
 align-items: center;
 text-align: center;

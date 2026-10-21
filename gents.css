@@ -314,7 +314,40 @@ gap: 4rem;
 justify-content: center;
 place-items:center;
 }
+.top-bar{
+display:none;
+justify-content:center;
+align-items: center;
+text-align: center;
+gap: 40rem;
+ margin-top: 9rem;
 
+    }
+.name{
+
+display: flex;
+gap: 5rem;
+align-items: center;
+text-align: center;
+
+}
+.name input{
+width:30vw;
+text-align: center;
+border:1px solid #282828;
+background-color: #F9FAFB;
+height:4vh;
+}
+.input i{
+position: absolute;
+left:46%;
+top:9.4rem;
+}
+.icon{
+gap: 2rem;
+display: flex;
+
+}
 
 
 
@@ -330,7 +363,7 @@ gap: 4rem;
 justify-content: center;
 place-items:center;
 }
-
+ 
 
 
 
