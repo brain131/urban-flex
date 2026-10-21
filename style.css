@@ -290,6 +290,16 @@ background-image:url(cloth6.jpg);
 
 }
 }
+
+
+.card-content >h3{
+
+font-family:serif;
+font-weight: 400;
+text-transform: capitalize;
+font-size:1.3rem;
+
+}
 .card-section{
 display: flex;
 position: relative;
@@ -503,3 +513,9 @@ place-items:center;
 
 
  }
+
+
+
+
+
+
